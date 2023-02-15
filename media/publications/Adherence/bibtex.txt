@@ -1,8 +1,0 @@
-@inproceedings{mohebbi2017deep,
-  title={A deep learning approach to adherence detection for type 2 diabetics},
-  author={Mohebbi, Ali and Arad{\'o}ttir, Tinna B and Johansen, Alexander R and Bengtsson, Henrik and Fraccaro, Marco and M{\o}rup, Morten},
-  booktitle={2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
-  pages={2896--2899},
-  year={2017},
-  organization={IEEE}
-}

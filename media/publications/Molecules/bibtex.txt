@@ -1,6 +1,0 @@
-@article{olsen2019autoencoding,
-  title={Autoencoding undirected molecular graphswith neural networks},
-  author={Olsen, Jeppe Johan Waarkjær and Christensen, Peter Ebert and Hansen, Martin Hangaard and Johansen, Alexander Rosenberg},
-  journal={preprint},
-  year={2019},
-}

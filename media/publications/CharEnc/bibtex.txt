@@ -1,6 +1,0 @@
-@article{johansen2016neural,
-  title={Neural machine translation with characters and hierarchical encoding},
-  author={Johansen, Alexander Rosenberg and Hansen, Jonas Meinertz and Obeid, Elias Khazen and S{\o}nderby, Casper Kaae and Winther, Ole},
-  journal={arXiv preprint arXiv:1610.06550},
-  year={2016}
-}

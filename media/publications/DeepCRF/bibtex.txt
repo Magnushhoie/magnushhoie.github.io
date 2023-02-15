@@ -1,6 +1,0 @@
-@article{johansen2017deeploc,
-  title={Deep Recurrent Conditional Random Field Network for Protein Secondary Prediction},
-  author={Johansen, Alexander Rosenberg and S{\o}nderby, Casper Kaae and S{\o}nderby, S{\o}ren Kaaeand and Winther, Ole},
-  journal={ACM-BCB},
-  year={2017}
-}

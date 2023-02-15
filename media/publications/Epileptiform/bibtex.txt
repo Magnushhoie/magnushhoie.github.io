@@ -1,8 +1,0 @@
-@inproceedings{johansen2016epileptiform,
-  title={Epileptiform spike detection via convolutional neural networks},
-  author={Johansen, Alexander Rosenberg and Jin, Jing and Maszczyk, Tomasz and Dauwels, Justin and Cash, Sydney S and Westover, M Brandon},
-  booktitle={2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  pages={754--758},
-  year={2016},
-  organization={IEEE}
-}

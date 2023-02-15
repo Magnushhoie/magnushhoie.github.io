@@ -1,6 +1,0 @@
-@article{johansen2017learning,
-  title={Learning when to skim and when to read},
-  author={Johansen, Alexander Rosenberg and Socher, Richard},
-  journal={arXiv preprint arXiv:1712.05483},
-  year={2017}
-}

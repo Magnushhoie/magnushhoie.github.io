@@ -1,8 +1,0 @@
-@inproceedings{mnu-madsen-johansen-2020,
-    author={Andreas Madsen and Alexander Rosenberg Johansen},
-    title={Neural Arithmetic Units},
-    booktitle={Submitted to International Conference on Learning Representations},
-    year={2020},
-    url={https://openreview.net/forum?id=H1gNOeHKPS},
-    note={under review}
-}
