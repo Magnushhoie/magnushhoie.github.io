@@ -1,0 +1,15 @@
+@article{https://doi.org/10.1002/pro.4497,
+author = {Clifford, Joakim Nøddeskov and Høie, Magnus Haraldson and Deleuran, Sebastian and Peters, Bjoern and Nielsen, Morten and Marcatili, Paolo},
+title = {BepiPred-3.0: Improved B-cell epitope prediction using protein language models},
+journal = {Protein Science},
+volume = {31},
+number = {12},
+pages = {e4497},
+keywords = {BepiPred-3.0, BepiPred, B-cell epitope prediction, protein language model, machine learning, deep learning, immunology, B-cell epitopes, bioinformatics, immunoinformatics},
+doi = {https://doi.org/10.1002/pro.4497},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.4497},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/pro.4497},
+abstract = {Abstract B-cell epitope prediction tools are of great medical and commercial interest due to their practical applications in vaccine development and disease diagnostics. The introduction of protein language models (LMs), trained on unprecedented large datasets of protein sequences and structures, tap into a powerful numeric representation that can be exploited to accurately predict local and global protein structural features from amino acid sequences only. In this paper, we present BepiPred-3.0, a sequence-based epitope prediction tool that, by exploiting LM embeddings, greatly improves the prediction accuracy for both linear and conformational epitope prediction on several independent test sets. Furthermore, by carefully selecting additional input variables and epitope residue annotation strategy, performance was further improved, thus achieving unprecedented predictive power. Our tool can predict epitopes across hundreds of sequences in minutes. It is freely available as a web server and a standalone package at https://services.healthtech.dtu.dk/service.php?BepiPred-3.0 with a user-friendly interface to navigate the results.},
+year = {2022}
+}
+
