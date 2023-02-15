@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="posts">
+  {% for post in site.posts %}
+  	{% if post.type == "blog" %}
+     <a class="posttitle" href="{{ site.baseurl }}{{ post.url }}" >{{ post.title }}</a>
+
+     <article class="post">
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a class="link"  href="{{ site.baseurl }}{{ post.url }}" style="color: white; background: #0E53A7;">Read More</a>
+    </article>
+  {% endif %}
+  {% endfor %}
+
+</div>

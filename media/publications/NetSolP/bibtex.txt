@@ -1,0 +1,13 @@
+@article{10.1093/bioinformatics/btab801,
+    author = {Thumuluri, Vineet and Martiny, Hannah-Marie and Almagro Armenteros, Jose J and Salomon, Jesper and Nielsen, Henrik and Johansen, Alexander Rosenberg},
+    title = "{NetSolP: predicting protein solubility in Escherichia  coli using language models}",
+    journal = {Bioinformatics},
+    year = {2021},
+    month = {11},
+    abstract = "{Solubility and expression levels of proteins can be a limiting factor for large-scale studies and industrial production. By determining the solubility and expression directly from the protein sequence, the success rate of wet-lab experiments can be increased.In this study, we focus on predicting the solubility and usability for purification of proteins expressed in Escherichia coli directly from the sequence. Our model NetSolP is based on deep learning protein language models called transformers and we show that it achieves state-of-the-art performance and improves extrapolation across datasets. As we find current methods are built on biased datasets, we curate existing datasets by using strict sequence-identity partitioning and ensure that there is minimal bias in the sequences.The predictor and data are available at https://services.healthtech.dtu.dk/service.php?NetSolP and the open-sourced code is available at https://github.com/tvinet/NetSolP-1.0.Supplementary data are available at Bioinformatics online.}",
+    issn = {1367-4803},
+    doi = {10.1093/bioinformatics/btab801},
+    url = {https://doi.org/10.1093/bioinformatics/btab801},
+    note = {btab801},
+    eprint = {https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btab801/41764776/btab801.pdf},
+}

@@ -1,0 +1,21 @@
+@Article{Teufel2022,
+author={Teufel, Felix
+and Almagro Armenteros, Jos{\'e} Juan
+and Johansen, Alexander Rosenberg
+and G{\'i}slason, Magn{\'u}s Halld{\'o}r
+and Pihl, Silas Irby
+and Tsirigos, Konstantinos D.
+and Winther, Ole
+and Brunak, S{\o}ren
+and von Heijne, Gunnar
+and Nielsen, Henrik},
+title={SignalP 6.0 predicts all five types of signal peptides using protein language models},
+journal={Nature Biotechnology},
+year={2022},
+month={Jan},
+day={03},
+abstract={Signal peptides (SPs) are short amino acid sequences that control protein secretion and translocation in all living organisms. SPs can be predicted from sequence data, but existing algorithms are unable to detect all known types of SPs. We introduce SignalP 6.0, a machine learning model that detects all five SP types and is applicable to metagenomic data.},
+issn={1546-1696},
+doi={10.1038/s41587-021-01156-3},
+url={https://doi.org/10.1038/s41587-021-01156-3}
+}

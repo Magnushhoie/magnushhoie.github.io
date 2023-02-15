@@ -1,0 +1,11 @@
+@article{MARTINY2021107596,
+title = {Deep protein representations enable recombinant protein expression prediction},
+journal = {Computational Biology and Chemistry},
+pages = {107596},
+year = {2021},
+issn = {1476-9271},
+doi = {https://doi.org/10.1016/j.compbiolchem.2021.107596},
+url = {https://www.sciencedirect.com/science/article/pii/S1476927121001663},
+author = {Hannah-Marie Martiny and Jose Juan Almagro Armenteros and Alexander Rosenberg Johansen and Jesper Salomon and Henrik Nielsen},
+abstract = {A crucial process in the production of industrial enzymes is recombinant gene expression, which aims to induce enzyme overexpression of the genes in a host microbe. Current approaches for securing overexpression rely on molecular tools such as adjusting the recombinant expression vector, adjusting cultivation conditions, or performing codon optimizations. However, such strategies are time-consuming, and an alternative strategy would be to select genes for better compatibility with the recombinant host. Several methods for predicting soluble expression are available; however, they are all optimized for the expression host Escherichia coli and do not consider the possibility of an expressed protein not being soluble. We show that these tools are not suited for predicting expression potential in the industrially important host Bacillus subtilis. Instead, we build a B. subtilis-specific machine learning model for expressibility prediction. Given millions of unlabelled proteins and a small labeled dataset, we can successfully train such a predictive model. The unlabeled proteins provide a performance boost relative to using amino acid frequencies of the labeled proteins as input. On average, we obtain a modest performance of 0.64 area-under-the-curve (AUC) and 0.2 Matthews correlation coefficient (MCC). However, we find that this is sufficient for the prioritization of expression candidates for high-throughput studies. Moreover, the predicted class probabilities are correlated with expression levels. A number of features related to protein expression, including base frequencies and solubility, are captured by the model.}
+}

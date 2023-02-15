@@ -1,0 +1,8 @@
+@article{jurtz2017introduction,
+  title={An introduction to Deep learning on biological sequence data--Examples and solutions},
+  author={Jurtz, Vanessa Isabell and Rosenberg Johansen, Alexander and Nielsen, Morten and Almagro Armenteros, Jose Juan and Nielsen, Henrik and Kaae S{\o}nderby, Casper and Winther, Ole and Kaae S{\o}nderby, S{\o}ren},
+  journal={Bioinformatics},
+  pages={btx531},
+  year={2017},
+  publisher={Oxford University Press}
+}
