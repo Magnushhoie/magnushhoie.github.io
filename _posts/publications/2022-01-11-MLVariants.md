@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Predicting and interpreting large-scale mutagenesis data using analyses of protein stability and conservation
-author: <u>MH Høie</u>, M Cagaida, AHB Frederiksen, A Stein, K Lindorff-Larsen
+author: <u>MH Høie</u>, M Cagiada, AHB Frederiksen, A Stein, K Lindorff-Larsen
 year: 2022
 key: 2022.1
 journal: Cell Reports
