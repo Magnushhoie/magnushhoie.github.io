@@ -1,0 +1,15 @@
+@article{HOIE2022110207,
+title = {Predicting and interpreting large-scale mutagenesis data using analyses of protein stability and conservation},
+journal = {Cell Reports},
+volume = {38},
+number = {2},
+pages = {110207},
+year = {2022},
+issn = {2211-1247},
+doi = {https://doi.org/10.1016/j.celrep.2021.110207},
+url = {https://www.sciencedirect.com/science/article/pii/S2211124721017113},
+author = {Magnus Haraldson Høie and Matteo Cagiada and Anders Haagen {Beck Frederiksen} and Amelie Stein and Kresten Lindorff-Larsen},
+keywords = {variant effects, protein stability, protein evolution, machine learning},
+abstract = {Summary
+Understanding and predicting the functional consequences of single amino acid changes is central in many areas of protein science. Here, we collect and analyze experimental measurements of effects of >150,000 variants in 29 proteins. We use biophysical calculations to predict changes in stability for each variant and assess them in light of sequence conservation. We find that the sequence analyses give more accurate prediction of variant effects than predictions of stability and that about half of the variants that show loss of function do so due to stability effects. We construct a machine learning model to predict variant effects from protein structure and sequence alignments and show how the two sources of information support one another and enable mechanistic interpretations. Together, our results show how one can leverage large-scale experimental assessments of variant effects to gain deeper and general insights into the mechanisms that cause loss of function.}
+}
