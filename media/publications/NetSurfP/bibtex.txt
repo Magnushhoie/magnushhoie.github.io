@@ -1,0 +1,9 @@
+@article{
+    author={Magnus Haraldson Høie, Erik Nicolas Kiehl, Bent Petersen, Morten Nielsen, Ole Winther,  Henrik Nielsen, Jeppe Hallgren, Paolo Marcatili}
+    howpublished={Web Server}
+    month={06}
+    title={NetSurfP-3.0: accurate and fast prediction of protein structural features by protein language models and deep learning}
+    year={2022}
+    url={https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac439/6596854}
+    doi={https://doi.org/10.1093/nar/gkac439}
+}
