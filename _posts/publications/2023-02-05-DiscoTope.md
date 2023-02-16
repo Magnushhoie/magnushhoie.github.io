@@ -5,7 +5,7 @@ author: <u> MH Høie</u>, FS Gade, JM Johansen, C Würtzen, O Winther, M Nielsen
 year: 2023
 key: 2023.1
 journal: bioRxiv
-link: https://www.biorxiv.org/content/10.1101/2023.02.05.527174v1.article-metrics
+link: https://www.biorxiv.org/content/10.1101/2023.02.05.527174v1
 image: /media/publications/DiscoTope/image.png
 bibtex: /media/publications/DiscoTope/bibtex.txt
 pdf: https://www.biorxiv.org/content/10.1101/2023.02.05.527174v1.full.pdf
