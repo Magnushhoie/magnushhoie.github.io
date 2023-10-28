@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: AntiFold: Improved antibody structure design using inverse folding
+author: <u> MH Høie, A Hummer</u>, TH Olsen, M Nielsen, C Deane
+year: 2023
+key: 2023.10
+journal: NeurIPS workshop
+link: https://openreview.net/forum?id=bxZMKHtlL6
+image: /media/publications/AntiFold/image.png
+bibtex: /media/publications/AntiFold/bibtex.txt
+pdf: https://openreview.net/pdf?id=bxZMKHtlL6
+website: https://opig.stats.ox.ac.uk/data/downloads/AntiFold/
+type: paper
+---
