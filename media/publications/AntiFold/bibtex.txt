@@ -1,8 +1,8 @@
-@inproceedings{
-h{\o}ie2023antifold,
-title={AntiFold: Improved antibody structure design using inverse folding},
-author={Magnus Haraldson H{\o}ie and Alissa Hummer and Tobias Olsen and Morten Nielsen and Charlotte Deane},
-booktitle={NeurIPS 2023 Generative AI and Biology (GenBio) Workshop},
-year={2023},
-url={https://openreview.net/forum?id=bxZMKHtlL6}
+@misc{høie2024antifold,
+      title={AntiFold: Improved antibody structure-based design using inverse folding}, 
+      author={Magnus Haraldson Høie and Alissa Hummer and Tobias H. Olsen and Broncio Aguilar-Sanjuan and Morten Nielsen and Charlotte M. Deane},
+      year={2024},
+      eprint={2405.03370},
+      archivePrefix={arXiv},
+      primaryClass={q-bio.BM}
 }
