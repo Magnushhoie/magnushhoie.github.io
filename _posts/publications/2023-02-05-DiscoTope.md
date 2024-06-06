@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: DiscoTope-3.0: improved B-cell epitope prediction using inverse folding latent representations
+title: DiscoTope-3.0 - Improved B-cell epitope prediction using inverse folding latent representations
 author: <u> MH Høie</u>, FS Gade, JM Johansen, C Würtzen, O Winther, M Nielsen, P Marcatili
 year: 2024
 key: 2024.2
