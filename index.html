@@ -136,6 +136,10 @@ title: magnushhoie
 	  			<a class="link" href={{publication.website}}  style="color: white;background: #d94801">Website</a>
 		{% endif %}
 
+		{% if publication.website %}
+	  			<a class="link" href={{publication.webserver}}  style="color: white;background: #d94801">Webserver</a>
+		{% endif %}
+
     {% if publication.blog %}
           <a class="link" href={{publication.blog}}  style="color: white;background: #d94801">Blog</a>
     {% endif %}
