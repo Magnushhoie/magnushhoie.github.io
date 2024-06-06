@@ -1,0 +1,18 @@
+
+@Article{microorganisms11092256,
+      AUTHOR = {Christensen, Lise Friis and Høie, Magnus Haraldson and Bang-Berthelsen, Claus Heiner and Marcatili, Paolo and Hansen, Egon Bech},
+      TITLE = {Comparative Structure Analysis of the Multi-Domain, Cell Envelope Proteases of Lactic Acid Bacteria},
+      JOURNAL = {Microorganisms},
+      VOLUME = {11},
+      YEAR = {2023},
+      NUMBER = {9},
+      ARTICLE-NUMBER = {2256},
+      URL = {https://www.mdpi.com/2076-2607/11/9/2256},
+      PubMedID = {37764099},
+      ISSN = {2076-2607},
+      ABSTRACT = {Lactic acid bacteria (LAB) have an extracellular proteolytic system that includes a multi-domain, cell envelope protease (CEP) with a subtilisin homologous protease domain. These CEPs have different proteolytic activities despite having similar protein sequences. Structural characterization has previously been limited to CEP homologs of dairy- and human-derived LAB strains, excluding CEPs of plant-derived LAB strains. CEP structures are a challenge to determine experimentally due to their large size and attachment to the cell envelope. This study aims to clarify the prevalence and structural diversity of CEPs by using the structure prediction software AlphaFold 2. Domain boundaries are clarified based on a comparative analysis of 21 three-dimensional structures, revealing novel domain architectures of CEP homologs that are not necessarily restricted to specific LAB species or ecological niches. The C-terminal flanking region of the protease domain is divided into fibronectin type-III-like domains with various structural traits. The analysis also emphasizes the existence of two distinct domains for cell envelope attachment that are preceded by an intrinsically disordered cell wall spanning domain. The domain variants and their combinations provide CEPs with different stability, proteolytic activity, and potentially adhesive properties, making CEPs targets for steering proteolytic activity with relevance for both food development and human health.},
+      DOI = {10.3390/microorganisms11092256}
+}
+
+
+
