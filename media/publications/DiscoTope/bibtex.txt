@@ -1,10 +1,10 @@
-@article{
-    author={Høie, Magnus Haraldson and Gade, Frederik Steensgaard and Johansen, Julie Maria and Würtzen, Charlotte and Winther, Ole and Nielsen, Morten and Marcatili, Paolo}
-    journal={bioRxiv}
-    month={feb}
-    publisher={Cold Spring Harbor Laboratory}
-    title={DiscoTope-3.0 - Improved B-cell epitope prediction using AlphaFold2 modeling and inverse folding latent representations}
-    year={2023}
-    doi={10.1101/2023.02.05.527174}
-    url={https://biolib.com/DTU/DiscoTope-3}
+@ARTICLE{discotope3,
+        AUTHOR={Høie, Magnus Haraldson  and Gade, Frederik Steensgaard  and Johansen, Julie Maria  and Würtzen, Charlotte  and Winther, Ole  and Nielsen, Morten  and Marcatili, Paolo },
+        TITLE={DiscoTope-3.0: improved B-cell epitope prediction using inverse folding latent representations},
+        JOURNAL={Frontiers in Immunology},
+        VOLUME={15},
+        YEAR={2024},
+        URL={https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1322712},
+        DOI={10.3389/fimmu.2024.1322712},
+        ISSN={1664-3224},
 }
