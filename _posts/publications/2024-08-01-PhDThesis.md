@@ -9,6 +9,5 @@ link: https://orbit.dtu.dk/en/publications/ai-in-antibody-design
 image: /media/publications/PhDThesis/antibody.jpg
 bibtex: /media/publications/PhDThesis/bibtex.txt
 pdf: https://orbit.dtu.dk/files/383391928/Thesis_Magnus_H_ie_Aug_2024.pdf
-webserver: https://opig.stats.ox.ac.uk/webapps/antifold/
 type: paper
 ---
