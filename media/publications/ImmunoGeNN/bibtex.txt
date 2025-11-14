@@ -1,0 +1,8 @@
+@inproceedings{
+    hoie2025_immunogenn,
+    title={ImmunoGe{NN}: Accelerating Early Immunogenicity Assessment for Generative Design of Biologics},
+    author={Magnus Haraldson H{\o}ie and Birkir Reynisson and Paolo Marcatili and Jesper Ferkinghoff-Borg and Kasper Lamberth and Katharina L. Kopp and Morten Nielsen and Vanessa Isabell Jurtz},
+    booktitle={EurIPS 2025 Workshop on SIMBIOCHEM},
+    year={2025},
+    url={https://openreview.net/forum?id=kOJQm9YXnB}
+}
