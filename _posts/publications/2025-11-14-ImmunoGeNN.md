@@ -6,7 +6,7 @@ year: 2025
 key: 2025.11
 journal: EurIPS SIMBIOCHEM
 link: https://openreview.net/forum?id=kOJQm9YXnB
-image: /media/publications/ImmunoGeNN/image.jpg
+image: /media/publications/ImmunoGeNN/image2.jpg
 bibtex: /media/publications/ImmunoGeNN/bibtex.txt
 pdf: https://openreview.net/forum?id=kOJQm9YXnB
 webserver: https://biolib.com/DTU/ImmunoGeNN
